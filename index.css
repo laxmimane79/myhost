@@ -1,0 +1,113 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.main{
+  height: 100px;
+  background-color:black;
+  color: white !important;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+@media(max-width:1267px){
+  .main{
+    height: 150px; 
+  } 
+}
+@media(max-width:667px){
+  .main{
+    height: 150px;    
+  }
+}
+
+.Main2{
+  height: auto;
+  width: 100%;
+  background-color: black;
+  padding-top: 50px;
+  padding-left: 300px;
+   padding-right: 300px;
+  color: white;
+}
+@media(max-width:1267px){
+  .Main2{
+   padding-left: 10px;
+   padding-right: 10px;
+  } 
+}
+@media(max-width:667px){
+  .Main2{
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+.Main3{
+  height: auto;
+  width: 100%;
+  background-color: black;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 200px;
+   padding-right: 200px;
+  color: white;
+}
+@media(max-width:1267px){
+  .Main3{
+   padding-left: 10px;
+   padding-right: 10px;
+  } 
+}
+@media(max-width:667px){
+  .Main3{
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+.Main4{
+  height: auto;
+  width: 100%;
+  background-color: black;
+  padding-top: 0px;
+  padding-bottom: 50px;
+  padding-left: 200px;
+   padding-right: 200px;
+  color: white;
+}
+@media(max-width:1267px){
+  .Main4{
+   padding-left: 10px;
+   padding-right: 10px;
+  } 
+}
+@media(max-width:667px){
+  .Main4{
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+.Main5{
+  height: auto;
+  width: 100%;
+  background-color: black;
+  padding-top: 0px;
+  padding-bottom: 50px;
+  padding-left: 200px;
+   padding-right: 200px;
+  color: white;
+}
+@media(max-width:1267px){
+  .Main5{
+   padding-left: 10px;
+   padding-right: 10px;
+  } 
+}
+@media(max-width:667px){
+  .Main5{
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
